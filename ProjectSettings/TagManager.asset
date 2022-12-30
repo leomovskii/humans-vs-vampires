@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Structs
+    uniqueID: 3666269837
+    locked: 0
+  - name: Entities
+    uniqueID: 2277807195
+    locked: 0
+  - name: Debug
+    uniqueID: 3308665587
+    locked: 0
+  - name: UI
+    uniqueID: 2609230767
+    locked: 0
